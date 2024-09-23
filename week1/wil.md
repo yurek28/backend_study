@@ -32,3 +32,4 @@ API
 특정 친구의 할 일 조회: GET /friend/{friend_id}
 
 ## 실행 이미지
+![spring](https://github.com/user-attachments/assets/b76d9180-a0b2-485b-9d3d-03708b284250)
