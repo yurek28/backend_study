@@ -1,4 +1,4 @@
-package hw;
+package com.example.todo_api.hw;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
