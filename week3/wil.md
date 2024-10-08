@@ -15,3 +15,6 @@
 - 필드 주입 - 권장하지 않음, 주로 테스트에서 사용
 
 - 세터 주입 - 잘 사용하지 않는 의존성 주입 방법
+
+## 테스트 이미지
+![test](https://github.com/yurek28/backend_study/blob/main/week3/test.png?raw=true)
