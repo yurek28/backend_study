@@ -1,4 +1,4 @@
-package com.example.todo_api.hw;
+package com.example.todo_api.bean;
 
 
 import org.junit.jupiter.api.Test;
