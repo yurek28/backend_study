@@ -22,4 +22,5 @@ Java Persistence API
 @Entity, @Id 등의 어노테이션을 사용해 매핑
 
 
-
+## ERD 이미지
+![test](https://github.com/yurek28/backend_study/blob/main/week4/erd.png?raw=true)
