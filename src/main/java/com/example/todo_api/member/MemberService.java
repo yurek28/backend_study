@@ -12,7 +12,11 @@ public class MemberService {
     @Transactional
     public void register(String id, String password){
         Member member = new Member();
+<<<<<<< HEAD
         //member.register(id, password);
+=======
+        member.register(id, password);
+>>>>>>> 74004ae4c9e6d7a00a503d7c5b2654f47bc1147e
         memberRepository.save(member);
     }
 }

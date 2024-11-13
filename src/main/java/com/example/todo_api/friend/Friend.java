@@ -11,7 +11,10 @@ import lombok.NoArgsConstructor;
 public class Friend {
 
     @Id
+<<<<<<< HEAD
     @Getter
+=======
+>>>>>>> 74004ae4c9e6d7a00a503d7c5b2654f47bc1147e
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 

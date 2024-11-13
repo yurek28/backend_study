@@ -40,7 +40,11 @@ public class TodoServiceTest {
     public void updatdTodoTest() throws Exception{
         Todo todo = new Todo();
         BDDMockito.given(todoRepository.findById(1L)).willReturn(todo);
+<<<<<<< HEAD
         todoService.updateTodo(1L, 1, "new content");
+=======
+        todoService.updateTodo(1L, "new content");
+>>>>>>> 74004ae4c9e6d7a00a503d7c5b2654f47bc1147e
         Mockito.verify(todoRepository, times(1)).findById(1L);
 
     }
