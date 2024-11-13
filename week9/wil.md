@@ -1,4 +1,5 @@
 # Weekly I Learned
+- github 레포지토리에 과제 업로드 후 추가로 와우클래스에서 제출 완료하기 버튼을 눌러야 한다는 걸 지금 알았습니다... 죄송합니다
 ## 컨트롤러
 - DTO를 사용해 서비스 계층과 소통(서비스 계층에 의존함)
 - HTTP GET/POST/PUT/PATCH/DELETE 사용
