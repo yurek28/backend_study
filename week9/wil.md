@@ -21,5 +21,8 @@
 - 500 internal server error: 서버 에러
 
 ## 테스트 결과
+
+#### 테스트 성공
 ![테스트1](https://github.com/yurek28/backend_study/blob/main/week9/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%84%B1%EA%B3%B5.jpg)
+#### 테스트 실패
 ![테스트2](https://github.com/yurek28/backend_study/blob/main/week9/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%8B%A4%ED%8C%A8.jpg)
